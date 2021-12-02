@@ -16,3 +16,5 @@ request(domain, (error, response, body) => {
     }
   });
 });
+
+///> node fetcher.js http://www.example.edu/ ./index.html
